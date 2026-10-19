@@ -1,0 +1,7 @@
+{
+  "_id": "lookup_6001",
+  "customerId": "usr_1001",
+  "orderId": "ord_3001",
+  "createdAt": "2026-10-19T08:30:00Z",
+  "status": "processing"
+}

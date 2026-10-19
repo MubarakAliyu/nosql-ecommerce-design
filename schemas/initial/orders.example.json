@@ -1,0 +1,26 @@
+{
+  "_id": "ord_3001",
+  "orderId": "ord_3001",
+  "idempotencyKey": "checkout-7a91e2",
+  "customerId": "usr_1001",
+  "customerSnapshot": {
+    "displayName": "Amina Yusuf",
+    "email": "amina@example.com",
+    "deliveryAddress": { "street": "12 Example Road", "city": "Sokoto", "country": "NG" }
+  },
+  "items": [
+    {
+      "productId": "prd_2001",
+      "sku": "PHONE-128-BLK",
+      "title": "Example Smartphone 128GB",
+      "quantity": 1,
+      "unitPrice": { "amount": 245000, "currency": "NGN" },
+      "lineTotal": { "amount": 245000, "currency": "NGN" }
+    }
+  ],
+  "totals": { "subtotal": 245000, "deliveryFee": 2500, "grandTotal": 247500, "currency": "NGN" },
+  "status": "processing",
+  "delivery": { "status": "label_created", "trackingId": "trk_5001" },
+  "createdAt": "2026-10-19T08:30:00Z",
+  "updatedAt": "2026-10-19T08:32:00Z"
+}

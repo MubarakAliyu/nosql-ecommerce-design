@@ -1,0 +1,9 @@
+{
+  "_id": "usr_1001",
+  "email": "amina@example.com",
+  "emailNormalized": "amina@example.com",
+  "displayName": "Amina Yusuf",
+  "phone": "+2348000000000",
+  "createdAt": "2026-01-15T10:20:00Z",
+  "accountStatus": "active"
+}

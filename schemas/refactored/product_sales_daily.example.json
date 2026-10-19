@@ -1,0 +1,12 @@
+{
+  "_id": "2026-10-19|prd_2001|NG|NGN",
+  "date": "2026-10-19",
+  "productId": "prd_2001",
+  "market": "NG",
+  "currency": "NGN",
+  "unitsSold": 31,
+  "orderCount": 29,
+  "grossMerchandiseValue": 7615000,
+  "updatedAt": "2026-10-19T09:15:00Z",
+  "aggregationVersion": 1
+}

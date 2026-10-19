@@ -1,0 +1,15 @@
+{
+  "_id": "prd_2001",
+  "productId": "prd_2001",
+  "sku": "PHONE-128-BLK",
+  "title": "Example Smartphone 128GB",
+  "description": "Example product description for catalogue search.",
+  "categoryId": "electronics",
+  "tags": ["smartphone", "mobile"],
+  "attributes": { "storageGB": 128, "colour": "black" },
+  "price": { "amount": 245000, "currency": "NGN" },
+  "inventory": { "availableQty": 120, "updatedAt": "2026-10-01T11:00:00Z" },
+  "isActive": true,
+  "createdAt": "2026-01-05T09:00:00Z",
+  "updatedAt": "2026-10-01T11:00:00Z"
+}
